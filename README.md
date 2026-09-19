@@ -2,7 +2,7 @@
 > Student | Building & Securing the Future of AGI Agents (like GPT-6 Astra)
 
 Hii!
-I am a young student , who has deep interest in CS and technology. I have a thought (be dangarously self educated) by using AI and HUMAN BRAIN.
+I am a young student , who has deep interest in CS and technology. I have a thought (be dangerously self educated) by using AI and HUMAN BRAIN.
 ### Language;
 Fluent in English(American accent & Indian accent)
 ### FREELANCING:
