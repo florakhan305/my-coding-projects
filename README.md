@@ -1,11 +1,21 @@
 # 🚀 AI Agent Security Engineer - Journey
-> BCA Student | Building & Securing the Future of AGI Agents (like GPT-6 Astra)
+> Student | Building & Securing the Future of AGI Agents (like GPT-6 Astra)
 
+Hii!
+I am a young student , who has deep interest in CS and technology. I have a thought (be dangarously self educated) by using AI and HUMAN BRAIN.
+### Language;
+Fluent in English(American accent & Indian accent)
+### FREELANCING:
+1. content writing
+2. Blogging
+3. [In progress]: Bug Bounty Hunting;
 ### 👨‍💻 About Me
-- 🎯 Goal: Become AI Agent Security Engineer by 2027
-- 📚 Currently Learning: Python, LangGraph, MCP, AI Red Teaming
+- 🎯 Goal: Become AI Agent Security Engineer IN [DIGITAL AI WORLD]
+- 📚  Learning: Python, LangGraph, MCP, AI Red Teaming
 - 🌱 Focus: Building autonomous agents that can browse, act & stay secure
 - 📫 Assam, India
+### Interest;
+[extreme]: I have great interest in robotics, AI, Machine and new technology.
 
 ### 🛠️ Tech Stack
 `Python` `LangChain` `LangGraph` `MCP` `Playwright` `Vector DB` `OWASP LLM Top 10` `Git`
@@ -17,15 +27,14 @@
 | **2. Auto Internship Applier Agent** | ⬜ Planned | Agent that auto-applies on Internshala |
 | **3. Red Team Report** | ⬜ Planned | Hacking & Securing my own Agent |
 
-### 🎯 90-Day Challenge
-- [x] Day 1-3: GitHub Setup
-- [ ] Day 4-30: Python + RAG Agent
-- [ ] Day 31-60: Build Browser Agent with LangGraph
-- [ ] Day 61-90: Red Teaming & Security Audit
+### Challenge
+- [] Python + RAG Agent
+- [ ] Build Browser Agent with LangGraph
+- [ ] Red Teaming & Security Audit
 
 ### 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/my-explorer-744909426?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - GitHub: You're here!
 
 ---
-⭐ *If you are a recruiter - I am building rare skills: Agentic AI + Security. Let's talk.*v
+⭐ *If you are a recruiter - I want building rare skills: Agentic AI + Security. 
